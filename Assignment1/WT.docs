@@ -1,0 +1,25 @@
+Task 1
+Create Git Repository
+First make an empty directory named on the enrollment number as (2302030430034) by the following git commands.
+git init 2302030430034
+this creates the empty repository in the desktop or documents.
+Then create the empty repository named as Assignment-1 by the same command.
+This create the empty directory of Assignment-1.
+Now to come out of the Assignment-1.
+git  init command
+Now make another directory in 2302030430034 folder as Assignment-2.
+To add files int the directory.
+Git –add filename.
+Git status  
+(it is used to check status of directory).
+Git commit 
+(it is used to commit the repository).
+
+
+Repository on Github
+
+
+Go to github and  click on create directory.
+Now the empty directory is created in github named as 2302030430034.
+Now add file folder named as Assignment_1 and Assignment_2.
+Now add the files in the respective folder as required.
